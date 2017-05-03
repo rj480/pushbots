@@ -1,0 +1,61 @@
+{
+  "name": "pushbots-cordova-plugin",
+  "version": "1.4.7",
+  "description": "PushBots plugin for phonegap/Cordova.",
+  "cordova": {
+    "id": "pushbots-cordova-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushbots/phonegap.git"
+  },
+  "keywords": [
+    "push",
+    "notifications",
+    "pushnotifications",
+    "free push notifications",
+    "GCM",
+    "C2DM",
+    "Android push notifications",
+    "helium",
+    "APNS",
+    "Push Bots",
+    "PushBots",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.3"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=5.2.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.1.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=7.0.0"
+    },
+    {
+      "name": "apple-xcode",
+      "version": ">=7.0.0"
+    }
+  ],
+  "author": "Pushbots",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/pushbots/phonegap/issues"
+  },
+  "homepage": "https://github.com/pushbots/phonegap#readme"
+}
